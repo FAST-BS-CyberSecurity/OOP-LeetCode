@@ -1,2 +1,0 @@
-# OOP-LeetCode
-OOPS Project
