@@ -608,7 +608,7 @@ src/ResultScreen.cpp
 Team split:
 
 ```text
-Person 1:
+erson 1:
   LoginScreen.h
   LoginScreen.cpp
   RegisterScreen.h
